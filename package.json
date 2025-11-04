@@ -11,7 +11,7 @@
     "url": "git+https://github.com/psk05020/fvtt-daggerheart-ko.git"
   },
   "license": "MIT",
-  "author": "Sepo <bsg9072@gmail.com>",
+  "author": "Sepi <bsg9072@gmail.com>",
   "type": "commonjs",
   "main": "module.js",
   "scripts": {
