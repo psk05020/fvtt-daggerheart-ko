@@ -1,7 +1,5 @@
 {
-	"label": "Classes",
-	"mapping": {
-		"description": "system.description"
+	"label": "클래스",
 	},
 	"folders": {
 		"Class Features": "클래스 기능",
