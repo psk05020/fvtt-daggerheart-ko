@@ -16,23 +16,15 @@ https://raw.githubusercontent.com/psk05020/fvtt-daggerheart-ko/main/module.json
 
 ### 기여하는 방법
 
-'ko.json' 파일에서 _로 시작하는 키는 번역되지 않은 항목입니다. 해당 내용을 번역한 후에는 맨 앞의 _를 제거해 주세요.
+`ko.json` 파일에서 _로 시작하는 키는 번역되지 않은 항목입니다. 해당 내용을 번역한 후에는 맨 앞의 `_`를 제거해 주세요.
 
 ### 번역 업데이트
 
 한국어 번역을 업데이트하려면 다음을 따르세요:
 
-Foundryborne Daggerheart 시스템에서 최신 'en.json' 언어 파일을 다운로드하세요.
+Foundryborne Daggerheart 시스템에서 최신 `en.json` 언어 파일을 다운로드하세요.
 
-```
-npm run update
-```
-
-'en.json' 파일의 키를 'ko.json' 파일과 동기화하세요.
-
-```
-npm run sync
-```
+`en.json` 파일의 키를 `ko.json` 파일과 동기화하세요.
 
 ## 면책조항
 
