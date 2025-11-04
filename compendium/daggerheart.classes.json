@@ -1,10 +1,11 @@
 {
 	"label": "클래스",
 	"mapping": {
-	"description": "system.description"
+		"description": "system.description"
+	},
 	"folders": {
 		"Class Features": "클래스 기능",
-		"Class Items": 클래스 아이템",
+		"Class Items": "클래스 아이템",
 		"Seraph": "세라프",
 		"Bard": "바드",
 		"Druid": "드루이드",
@@ -17,10 +18,11 @@
 	},
 	"entries": {
 		"Seraph": {
-			"name": "세라프"
+			"name": "세라프",
+			"description": "<p>세라프 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		},
 		"Bard": {
-			"name": "Bardo"
+			"name": "바드",
 			"description": "<p><strong>참고: 5레벨에는...</strong></p><p><br />바드는 모든 영역을...</p>"
 		},
 		"Rally": {
@@ -32,25 +34,32 @@
 			"description": "<p>이것은 다른 특징에 대한 번역문입니다.</p>"
 		},
 		"Druid": {
-			"name": "Druida"
+			"name": "드루이드",
+			"description": "<p>드루이드 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		},
 		"Guardian": {
-			"name": "Guardián"
+			"name": "가디언",
+			"description": "<p>가디언 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		},
 		"Ranger": {
-			"name": "Explorador"
+			"name": "레인저",
+			"description": "<p>레인저 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		},
 		"Rogue": {
-			"name": "Pícaro"
+			"name": "로그",
+			"description": "<p>로그 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		},
 		"Warrior": {
-			"name": "Guerrero"
+			"name": "워리어",
+			"description": "<p>워리어 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		},
 		"Wizard": {
-			"name": "Mago"
+			"name": "위저드",
+			"description": "<p>위저드 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		},
 		"Sorcerer": {
-			"name": "Hechicero"
+			"name": "소서러",
+			"description": "<p>소서러 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		}
 	}
 }
