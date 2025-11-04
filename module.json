@@ -1,7 +1,7 @@
 {
   "id": "daggerheart-ko",
-  "title": "Translation: Korea [Daggerheart]",
-  "description": "Unofficial spanish translation of the Foundryborne Daggerheart system for FoundryVTT",
+  "title": "Translation: Korean [Daggerheart]",
+  "description": "Unofficial korean translation of the Foundryborne Daggerheart system for FoundryVTT",
   "version": "0.0.1",
   "compatibility": {
     "minimum": "13",
@@ -9,9 +9,9 @@
   },
   "authors": [
     {
-      "name": "Miguel Molina",
-      "email": "miguel@erizocosmi.co",
-      "discord": "erizocosmico",
+      "name": "Sepi",
+      "email": "bsg90720@gmail.com",
+      "discord": "Sepi",
       "flags": {}
 	}
   ],
@@ -48,7 +48,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/erizocosmico/fvtt-daggerheart-es",
+  "url": "https://github.com/psk05020/fvtt-daggerheart-ko",
   "manifest": "https://raw.githubusercontent.com/psk05020/fvtt-daggerheart-ko/main/module.json",
   "download": "https://github.com/psk05020/fvtt-daggerheart-ko/archive/refs/heads/main.zip"
 }
