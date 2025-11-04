@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/psk05020/fvtt-daggerheart-ko/main/module.json
 
 한국어 번역을 업데이트하려면 다음을 따르세요:
 
-Foundryborne Daggerheart 시스템에서 최신 `en.json` 언어 파일을 다운로드하세요.
+1. Foundryborne Daggerheart 시스템에서 최신 `en.json` 언어 파일을 다운로드하세요.
 
-`en.json` 파일의 키를 `ko.json` 파일과 동기화하세요.
+2. `en.json` 파일의 키를 `ko.json` 파일과 동기화하세요.
 
 ## 면책조항
 
