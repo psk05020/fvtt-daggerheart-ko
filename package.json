@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/psk05020/fvtt-daggerheart-ko.git"
   },
-  "license": "Good Player",
+  "license": "MIT",
   "author": "Sepo <bsg9072@gmail.com>",
   "type": "commonjs",
   "main": "module.js",
