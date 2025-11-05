@@ -1,5 +1,8 @@
 {
 	"label": "클래스",
+	"mapping": {
+		"description": "system.description"
+	},
 	"folders": {
 		"Class Features": "클래스 기능",
 		"Class Items": "클래스 아이템",
@@ -59,3 +62,4 @@
 			"description": "<p>소서러 클래스 설명을 여기에 번역해 넣으세요.</p>"
 		}
 	}
+}
