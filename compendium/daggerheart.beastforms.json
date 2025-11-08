@@ -1,7 +1,7 @@
 {
 	"label": "야수 형태",
 	"mapping": {
-	"description": "system.description"
+		"description": "system.description"
 	},
 	"folders": {
 		"Beastform Features": "야수 형태 기능",
