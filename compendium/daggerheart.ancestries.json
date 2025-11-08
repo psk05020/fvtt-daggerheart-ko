@@ -1,7 +1,7 @@
 {
-	"label": "Linajes",
+	"label": "혈통",
 	"folders": {
-		"Ancestry Features": "Rasgos de linaje"
+		"Ancestry Features": "혈통 기능"
 	},
 	"mapping": {
     	"description": "system.description",
@@ -10,84 +10,94 @@
 	},
 	"entries": {
 		"Clank": {
-			"description": "<p>Los Clanks son seres mecánicos hechos a partir de una gran variedad de materiales como metal, madera o piedra.<br><br><p class=\"green Body-Styles_Body\" chunk_id=\"cf73a44a-bad6-493d-9d72-4007c4b803e7\">Pueden tener aspecto humanoide, animal o incluso de objetos inanimados. Al igual que los seres orgánicos, sus cuerpos vienen en una gran cantidad de tamaños. Debido a su construcción, muchos Clanks tienen configuraciones físicas muy especilizadas, por ejemplo, manos con garras para agarrarse, ruedas para moverse o armas integradas.</p>\n<p class=\"green Body-Styles_Body\" chunk_id=\"89241f41-6ba6-40db-a272-c23b400e26e8\">Muchos Clanks modifican su cuerpo por estética y funcionalidad y miembros de otros linajes suelen recurrir a otros artesanos clanks para construir ayudas personalizadas de mobilidad y adornos físicos. Otros linajes pueden crear clanks, incluso usando sus propias características como inspiración, pero también es común que los clanks se construyan entre ellos. La esperanza de vida de un clank se extiende siempre que consigan nuevas partes, haciendo su forma física efectivamente inmortal. Dicho esto, sus mentes están sujetas a los efectos del tiempo y se deterioran a medida que los poderes mágicos que los hace funcionar pierde potencia.</p></p>"
+			"name": "클랭크",
+			"description": "<p>클랭크는 금속, 목재, 돌 등 다양한 재료로 만들어진 기계 존재입니다.<br><br><p class=\"green Body-Styles_Body\" chunk_id=\"cf73a44a-bad6-493d-9d72-4007c4b803e7\">클랭크는 인간형, 동물형, 혹은 심지어 무생물의 형태를 닮을 수도 있습니다. 유기체와 마찬가지로, 그들의 신체는 매우 다양한 크기로 존재합니다. 맞춤 제작되는 특성 때문에, 많은 클랭크는 고도로 특화된 신체 구조를 가지고 있습니다. 예를 들어, 잡기에 특화된 발톱 손, 이동을 위한 바퀴, 내장 무기 등이 있습니다..</p>\n<p class=\"green Body-Styles_Body\" chunk_id=\"89241f41-6ba6-40db-a272-c23b400e26e8\">많은 클랭크는 기능뿐만 아니라 스타일을 위해서도 신체 개조를 받아들입니다. 다른 혈통의 구성원들은 맞춤형 보조 장치나 신체 장식을 제작하기 위해 종종 클랭크 장인들에게 도움을 요청합니다. 다른 혈통 또한 클랭크를 만들 수 있으며, 심지어 자신들의 신체적 특징에서 영감을 얻기도 합니다. 하지만 클랭크가 서로를 만드는 경우도 흔합니다. 클랭크의 수명은 새 부품을 얻거나 제작할 수 있는 한 계속 연장되므로, 그들의 신체는 사실상 불멸에 가깝습니다. 그러나 그들의 정신은 시간의 영향을 받으며, 그들을 움직이게 하는 마법의 힘이 약해짐에 따라 점차 쇠퇴합니다.</p></p>"
 		},
 		"Drakona": {
-			"description": "<p>Los drakonas se asemejan a dragones sin alas con forma humanoide y poseen un poderoso aliento elemental.<br><br><p>Todos los drakonas tienen escamas gruesas que les proporcionan una excelente armadura natural contra ataques y fuerzas de la naturaleza. Son grandes, de un promedio de 1,5 a 2,1 metros, con dientes largos y afilados. A lo largo de sus aproximadamente 350 años de vida, los drakonas desarrollan dientes nuevos, por lo que nunca corren el riesgo de perder un incisivo permanentemente. A diferencia de sus ancestros dragones, los drakonas no tienen alas y no pueden volar sin ayuda mágica. Los miembros de este linaje transmiten el elemento de su aliento de generación en generación, aunque en raras ocasiones, el poder elemental de un drakona difiere del del resto de su familia.</p></p>"
+			"name": "드라코나",
+			"description": "<p>드라코나는 날개 없는 드래곤을 닮은 인간형이며, 강력한 원소 숨결을 지니고 있습니다.<br><br><p>모든 드라코나는 두꺼운 비늘을 가지고 있으며, 이는 공격과 자연의 힘 모두에 대해 뛰어난 자연 방어구 역할을 합니다. 그들은 평균적으로 키가 5피트에서 7피트에 이르는 큰 체구를 지니고 있으며, 길고 날카로운 이빨을 가지고 있습니다. 드라코나는 약 350년의 수명 동안 새로운 이빨이 계속 자라기 때문에, 앞니를 영구적으로 잃을 위험이 전혀 없습니다. 다른 드래곤 선조들과 달리, 드라코나는 날개가 없으며 마법적인 도움 없이는 날 수 없습니다. 이 혈통의 구성원들은 숨결의 원소를 세대를 이어 전승하지만, 드물게 드라코나의 원소 힘이 가족의 나머지와 다른 경우도 있습니다.</p></p>"
 		},
 		"Dwarf": {
-			"name": "Enano",
-			"description": "<p>Los enanos se reconocen fácilmente como humanoides bajos, de complexión cuadrada, musculatura densa y cabello espeso.<br><br><p>Su altura promedio oscila entre 1,20 y 1,65 metros, y suelen ser anchos en proporción a su estatura. Su piel y uñas contienen una gran cantidad de queratina, lo que los hace naturalmente resistentes. Esto les permite incrustarse gemas en el cuerpo y decorarse con tatuajes o piercings. Su cabello crece abundantemente, generalmente en la cabeza, pero algunos enanos también lo tienen en todo el cuerpo. Los enanos de todos los géneros pueden tener vello facial, que a menudo peinan de forma elaborada. Normalmente, los enanos viven hasta 250 años, manteniendo su masa muscular hasta bien entrada la edad avanzada.</p></p>"
+			"name": "드워프",
+			"description": "<p>드워프는 네모진 체격, 밀도 높은 근육, 두꺼운 머리카락을 가진 작은 인간형으로 가장 쉽게 알아볼 수 있습니다.<br><br><p>드워프의 평균 키는 4피트에서 5피트 반 정도이며, 키에 비해 체격이 넓은 경우가 많습니다. 그들의 피부와 손톱은 케라틴 성분이 많아 자연적으로 강인합니다. 덕분에 드워프는 자신의 몸에 보석을 박아 넣거나 문신과 피어싱으로 장식할 수 있습니다. 그들의 머리카락은 보통 머리에 풍성하게 자라지만, 어떤 드워프는 온몸에 걸쳐 두꺼운 털이 자라기도 합니다. 드워프는 성별에 상관없이 모두 수염을 기를 수 있으며, 대개 정교한 스타일로 다듬습니다. 일반적으로 드워프는 약 250세까지 살며, 노년기에도 근육량을 잘 유지합니다.</p></p>"
 		},
 		"Elf": {
-			"name": "Elfo",
-			"description": "<p>Los elfos suelen ser humanoides altos con orejas puntiagudas y sentidos muy agudizados.<br><br><p class=\"green Body-Styles_Body\" chunk_id=\"977fe91c-fa57-4a66-83e1-1f62a922f018\">Sus orejas varían de tamaño y forma puntiaguda, y a medida que envejecen, las puntas comienzan a caer. Si bien los elfos presentan una amplia gama de tipos de cuerpo, todos son bastante altos, con estaturas que oscilan entre los 1,80 y los 1,90 metros. Todos los elfos tienen la capacidad de entrar en un trance celestial, en lugar de dormirse. Esto les permite descansar eficazmente en poco tiempo.</p>\n<p class=\"green Body-Styles_Body\" chunk_id=\"95498747-ff6e-4842-8706-a912c907bab6\">Algunos elfos poseen lo que se conoce como \"forma mística\", que se da cuando un elfo se ha dedicado al estudio o la protección del mundo natural tan profundamente que su forma física cambia. Estas características pueden incluir pecas celestiales, la presencia de hojas, enredaderas o flores en el cabello, ojos que centellean como el fuego y más. A veces, estos rasgos se heredan de los padres, pero si un elfo cambia de entorno o de enfoque mágico, su apariencia cambia con el tiempo. Dado que los elfos viven unos 350 años, estos rasgos pueden cambiar más de una vez a lo largo de su vida.</p><</p>"
+			"name": "엘프",
+			"description": "<p>엘프는 일반적으로 뾰족한 귀와 예리하게 발달한 감각을 가진 키가 큰 인간형입니다.<br><br><p class=\"green Body-Styles_Body\" chunk_id=\"977fe91c-fa57-4a66-83e1-1f62a922f018\">엘프의 귀는 크기와 뾰족한 모양이 다양하며, 나이가 들면 귀 끝이 서서히 처지기 시작합니다. 엘프는 다양한 체형을 가지고 있지만 모두 비교적 키가 큰 편으로, 약 6피트에서 6피트 반 사이의 신장을 가지고 있습니다. 모든 엘프는 잠을 자는 대신 천상의 명상에 빠질 수 있는 능력을 지니고 있으며, 이를 통해 짧은 시간 안에 효과적으로 휴식을 취할 수 있습니다.</p>\n<p class=\"green Body-Styles_Body\" chunk_id=\"95498747-ff6e-4842-8706-a912c907bab6\">일부 엘프는 “신비의 형상”이라 불리는 모습을 지니는데, 이는 엘프가 자연 세계의 연구나 보호에 깊이 헌신한 결과 육체적 형상이 변화하는 현상입니다. 이러한 특징에는 천상의 주근깨, 머리카락 속에 나타나는 잎사귀, 덩굴, 꽃, 불꽃처럼 반짝이는 눈빛 등이 포함될 수 있습니다. 이러한 특성은 부모로부터 유전되기도 하지만, 엘프가 환경이나 마법적 초점을 바꾸면 시간이 지나면서 외형도 변화할 수 있습니다. 엘프는 약 350년을 살기 때문에, 일생 동안 이러한 특징이 여러 차례 바뀔 수 있습니다.</p><</p>"
 		},
 		"Faerie": {
-			"name": "Hada",
-			"description": "<p>Las hadas son criaturas humanoides aladas con rasgos insectoides.<br><br><p>Estas características abarcan un amplio espectro, desde humanoides hasta insectoides; algunas poseen brazos adicionales, ojos compuestos, órganos de linterna, exoesqueletos quitinosos o aguijones. Debido a su estrecha conexión con el mundo natural, también suelen poseer atributos que les permiten mimetizarse con diversas plantas. La altura promedio de un hada oscila entre 60 y 1,50 metros, pero algunas alcanzan los 2,10 metros. Todas las hadas poseen alas membranosas y pasan por un proceso de metamorfosis. El proceso y los cambios varían de una hada a otra, pero durante esta transformación cada individuo manifiesta la apariencia única que conservará durante el resto de sus aproximadamente 50 años de vida.</p></p>"
+			"name": "페어리",
+			"description": "<p>페어리는 곤충과 같은 특징을 가진 날개 달린 인간형 생물입니다.<br><br><p>이러한 특징은 인간형에서 곤충형에 이르기까지 광범위하게 나타나며, 일부 요정은 여분의 팔, 겹눈, 발광 기관, 키틴질 외골격, 혹은 침을 지니고 있습니다. 자연 세계와의 긴밀한 연관성 때문에, 다양한 식물과 쉽게 동화될 수 있는 특성을 자주 가지고 있기도 합니다. 요정의 평균 키는 약 2피트에서 5피트 사이이지만, 일부 요정은 7피트까지 자라기도 합니다. 모든 요정은 막질의 날개를 가지고 있으며, 각자 변태 과정을 거칩니다. 이 과정과 변화는 요정마다 다르지만, 변태 동안 각 개체는 이후 약 50년의 수명 동안 지니게 될 고유한 외형을 드러내게 됩니다.</p></p>"
 		},
 		"Faun": {
-			"name": "Fauno",
-			"description": "<p>Los faunos se asemejan a cabras humanoides con cuernos curvos, pupilas cuadradas y pezuñas hendidas.<br><br><p>Aunque su apariencia puede variar, la mayoría de los faunos tienen un torso humanoide y una parte inferior del cuerpo similar a la de una cabra, cubierta de un denso pelaje. Sus rostros pueden ser más bien caprinos o humanos, y presentan una amplia variedad de formas de orejas y cuernos. Los cuernos de los faunos varían desde cortos con una mínima curvatura hasta mucho más grandes con una curvatura distintiva. El fauno promedio mide entre 1,20 y 1,90 metros de altura, pero su altura puede variar drásticamente de un momento a otro según su postura. La mayoría de los faunos tienen extremidades proporcionalmente largas, independientemente de su tamaño o forma, y ​​son conocidos por su capacidad para asestar potentes golpes con sus pezuñas hendidas. Los faunos viven aproximadamente 225 años y, a medida que envejecen, su apariencia puede volverse cada vez más parecida a la de una cabra.</p></p>"
+			"name": "폰",
+			"description": "<p>폰은 굽은 뿔, 네모난 눈동자, 갈라진 발굽을 가진 염소와 비슷한 인간형입니다.<br><br><p>그들의 외형은 다양할 수 있지만, 대부분의 폰은 인간형의 상체와 짙은 털로 덮인 염소 같은 하체를 가지고 있습니다. 폰의 얼굴은 더 염소에 가깝거나 더 인간에 가까울 수 있으며, 귀와 뿔의 형태도 매우 다양합니다. 폰의 뿔은 거의 휘지 않은 짧은 것부터 뚜렷하게 말린 매우 큰 것까지 있습니다. 평균적인 폰의 키는 약 4피트에서 6피트 반 정도이지만, 그들의 자세에 따라 순간적으로 키가 크게 달라질 수 있습니다. 대부분의 폰은 크기와 형태에 상관없이 비례적으로 긴 팔다리를 가지고 있으며, 갈라진 발굽으로 강력한 타격을 가할 수 있는 능력으로 잘 알려져 있습니다. 파운의 수명은 대략 225년 정도이며, 나이가 들수록 그들의 외모는 점점 더 염소와 닮아갑니다.</p></p>"
 		},
 		"Firbolg": {
-			"description": "<p>Los firbolgs son humanoides bovinos que se reconocen típicamente por sus narices anchas y orejas largas y caídas.<br><br><p>Algunos tienen rostros que combinan humanoide con bisonte, buey, vaca u otras criaturas bovinas. Otros, a menudo llamados minotauros, tienen cabezas que se asemejan por completo a las del ganado. Son criaturas altas y musculosas, con alturas que oscilan entre 1,5 y 2,1 metros, y poseen una fuerza notable sin importar su edad. Se sabe que algunos firbolgs usan esta fuerza para cargar contra sus adversarios, una acción particularmente efectiva para quienes poseen alguna de las muchas variedades de cuernos comunes en este linaje. Aunque sus características únicas pueden variar, todos los firbolgs están cubiertos de pelaje, que puede ser de tonos tierra o pastel, como rosas y azules suaves. En promedio, los firbolgs viven unos 150 años.</p></p>"
+			"name": "퍼볼그",			
+			"description": "<p>퍼볼그는 넓은 코와 길게 늘어진 귀로 쉽게 알아볼 수 있는 소 같은 모습의 인간형입니다.<br><br><p>어떤 이들은 인간형과 들소, 황소, 소 또는 다른 소과 생물들이 섞인 얼굴을 가지고 있습니다. 다른 이들은 흔히 미노타우르로 불리며, 머리가 완전히 소를 닮아 있습니다. 그들은 키가 크고 근육질의 생물로, 키는 약 5피트에서 7피트 정도에 이르며, 나이에 상관없이 놀라운 힘을 지니고 있습니다. 일부 퍼볼그는 이 힘을 이용해 적대자에게 돌진하는 것으로 알려져 있으며, 이는 특히 이 혈통에서 흔히 볼 수 있는 다양한 형태의 뿔을 가진 이들에게 매우 효과적인 행동입니다. 그들의 고유한 특성은 다양할 수 있지만, 모든 퍼볼그는 털로 덮여 있으며, 그 털은 차분하고 흙빛 계열일 수도 있고, 연한 분홍색이나 파란색 같은 다양한 파스텔 색조일 수도 있습니다. 평균적으로 퍼볼그는 약 150년 정도를 살아갑니다.</p></p>"
 		},
 		"Fungril": {
-			"description": "<p>Los fungril se asemejan a los hongos humanoides.<br><br><p>Pueden tener una apariencia más humanoide o fúngica, y se presentan en una variedad de colores, desde tonos tierra hasta rojos, amarillos, morados y azules brillantes. Los fungril presentan una increíble variedad de cuerpos, caras y extremidades, ya que no tienen una forma común. Incluso su altura varía desde apenas 60 cm hasta la asombrosa cifra de 2,13 metros. Si bien la esperanza de vida promedio de un hongo es de unos 300 años, se ha reportado que algunos viven mucho más. Pueden comunicarse de forma no verbal, y muchos miembros de este linaje utilizan una matriz micelial para intercambiar información química con otros hongos a largas distancias.</p></p>"
+			"name": "펑그릴",
+			"description": "<p>펑그릴은 버섯을 닮은 인간형입니다.<br><br><p>펑그릴은 외형이 더 인간형에 가깝기도 하고 더 균류에 가깝기도 하며, 흙빛 계열에서부터 선명한 빨강, 노랑, 보라, 파랑에 이르는 다양한 색을 가지고 있습니다. 펑그릴은 몸, 얼굴, 팔다리에 놀라울 정도로 다양한 모습을 보여주며, 그들 사이에는 공통된 단일한 형태가 존재하지 않습니다. 그들의 키 역시 아주 작은 2피트에서 믿기 어려울 정도로 큰 7피트까지 다양합니다. 펑그릴의 일반적인 수명은 약 300년 정도이지만, 훨씬 더 오래 산 사례도 보고된 바 있습니다. 그들은 비언어적으로 의사소통할 수 있으며, 이 혈통의 많은 구성원들은 균사 배열을 이용해 화학적으로 정보를 교환하여 먼 거리에 있는 다른 펑그릴과도 소통할 수 있습니다.</p></p>"
 		},
 		"Galapa": {
-			"description": "<p>Los galapas se asemejan a tortugas antropomórficas con grandes caparazones abovedados en los que pueden retraerse.<br><br><p>En promedio, miden entre 1,20 y 1,80 metros de altura, y la forma de su cabeza y cuerpo puede asemejarse a la de cualquier tipo de tortuga. Los galapas se presentan en una variedad de tonos tierra, generalmente verdes y marrones, y poseen patrones únicos en sus caparazones. Los miembros de este linaje pueden retraer la cabeza, los brazos y las piernas dentro de su caparazón para protegerse y usarlo como escudo natural cuando necesitan medidas defensivas. Algunos complementan la resistencia o la apariencia de su caparazón adhiriéndose armaduras o tallando diseños únicos, pero el proceso es extremadamente doloroso. La mayoría de los galapas se mueven lentamente sin importar su edad, y pueden vivir aproximadamente 150 años.</p></p>"
+			"name": "갈라파",	
+			"description": "<p>갈라파는 큰 돔형 등껍질을 지니고 의인화된 거북 같은 형상을 하고 있으며, 껍질 속으로 몸을 숨길 수 있습니다.<br><br><p>평균적으로 키가 약 4피트에서 6피트에 이르며, 머리와 몸의 형태는 어떤 종류의 거북과도 닮을 수 있습니다. 갈라파는 다양한 흙빛 계열의 색을 가지며—가장 흔히는 초록색과 갈색의 음영—등껍질에는 독특한 무늬가 새겨져 있습니다. 이 혈통의 구성원들은 머리, 팔, 다리를 등껍질 안으로 집어넣어 방어가 필요할 때 자연 방패로 사용할 수 있습니다. 일부는 갑옷을 부착하거나 독특한 문양을 새김으로써 등껍질의 강도나 외형을 보강하기도 하지만, 그 과정은 극도로 고통스럽습니다. 대부분의 갈라파는 나이에 상관없이 느리게 움직이며, 대략 150년 정도를 살아갑니다.</p></p>"
 		},
 		"Giant": {
-			"name": "Gigante",
-			"description": "<p>Los gigantes son humanoides enormes con hombros anchos, brazos largos y de uno a tres ojos.<br><br><p>Los gigantes adultos miden entre 1,90 y 2,50 metros de altura y son musculosos por naturaleza, independientemente de su complexión. Se reconocen fácilmente por su complexión ancha y brazos y cuellos alargados. Aunque pueden tener hasta tres ojos, todos los gigantes nacen sin ninguno y permanecen ciegos durante su primer año de vida. Hasta que un gigante alcanza los 10 años y sus rasgos se desarrollan por completo, la formación de sus ojos puede variar. Aquellos con un solo ojo se conocen comúnmente como cíclopes. La esperanza de vida promedio de un gigante es de unos 75 años.</p></p>"
+			"name": "거인",
+			"description": "<p>거인은 넓은 어깨와 긴 팔, 그리고 한 개에서 세 개의 눈을 가진 거대한 인간형 생물입니다.<br><br><p>성체 거인은 키가 약 6피트 반에서 8피트 반에 이르며, 체형과 상관없이 선천적으로 근육질입니다. 그들은 넓은 체격과 길게 뻗은 팔과 목으로 쉽게 알아볼 수 있습니다. 눈은 최대 세 개까지 가질 수 있지만, 모든 거인은 태어날 때 눈이 전혀 없으며 생후 첫 1년 동안은 시각이 없습니다. 거인이 10세에 이르러 특징이 완전히 발달하기 전까지는 눈의 형성이 변동할 수 있습니다. 눈이 하나뿐인 개체는 흔히 사이클롭스라고 불립니다. 거인의 평균 수명은 약 75년입니다.</p></p>"
 		},
 		"Goblin": {
-			"description": "<p>Los goblins son pequeños humanoides fácilmente reconocibles por sus grandes ojos y enormes orejas membranosas.<br><br><p>Con un oído agudo y una vista aguda, perciben detalles tanto a grandes distancias como en la oscuridad, lo que les permite moverse con facilidad en entornos menos favorables. El color de su piel y ojos es increíblemente variado, sin un tono, ni vibrante ni apagado, más dominante que otro. Un goblin típico mide entre 90 y 120 cm de altura, y cada oreja tiene aproximadamente el tamaño de su cabeza. Se sabe que los goblins usan la posición de sus orejas con efectos muy específicos al comunicarse de forma no verbal. La vida de un goblin es de aproximadamente 100 años, y muchos mantienen su oído y vista agudos hasta una edad avanzada.</p></p>"
+			"name": "고블린",
+			"description": "<p>고블린은 큰 눈과 박쥐 날개처럼 얇고 큰 귀가 특징인 작은 인간형입니다.<br><br><p>예리한 청각과 날카로운 시각을 지닌 그들은 먼 거리에서도, 그리고 어둠 속에서도 세부 사항을 파악할 수 있어, 열악한 환경 속에서도 손쉽게 움직일 수 있습니다. 그들의 피부색과 눈동자 색은 놀라울 정도로 다양하며, 선명하든 차분하든 특정한 색이 다른 색보다 우세하게 나타나는 경우는 없습니다. 전형적인 고블린은 키가 약 3피트에서 4피트 정도이며, 귀는 머리 크기만큼 큽니다. 고블린은 비언어적 의사소통을 할 때 귀의 위치를 매우 구체적으로 활용하는 것으로 알려져 있습니다. 고블린의 수명은 대략 100년 정도이며, 많은 이들이 노년기에도 여전히 예리한 청각과 시각을 유지합니다.</p></p>"
 		},
 		"Halfling": {
-			"name": "Mediano",
-			"description": "<p>Los medianos son humanoides pequeños con grandes pies peludos y orejas prominentes y redondeadas.<br><br><p>En promedio, los medianos miden entre 90 y 120 cm de altura, y sus orejas, nariz y pies son más grandes en proporción al resto de su cuerpo. Los miembros de este linaje viven alrededor de 150 años, y su apariencia suele mantenerse juvenil incluso al pasar de la edad adulta a la vejez. Los medianos están naturalmente en sintonía con los campos magnéticos del Reino Mortal, lo que les otorga una potente brújula interna. También poseen agudos sentidos del oído y el olfato, y a menudo pueden detectar a quienes les resultan familiares por el sonido de sus movimientos.</p></p>"
+			"name": "하플링",
+			"description": "<p>하플링은 크고 털이 많은 발과 두드러진 둥근 귀를 가진 작은 인간형입니다.<br><br><p>평균적으로 하플링은 키가 약 3피트에서 4피트 정도이며, 귀, 코, 발은 신체의 다른 부분에 비해 비례적으로 더 큽니다. 이 혈통의 구성원들은 약 150년 정도를 살며, 하플링은 성인기에서 노년기로 접어들어도 외모가 젊게 유지되는 경우가 많습니다. 하플링은 본질적으로 필멸의 영역의 자기장에 민감하게 조율되어 있어, 강력한 내적 나침반을 지니고 있습니다. 또한 그들은 청각과 후각이 매우 예민하여, 움직임에서 나는 소리만으로도 자신과 친숙한 이들을 자주 알아볼 수 있습니다.</p></p>"
 		},
 		"Human": {
-			"name": "Humano",
-			"description": "<p>Los humanos se reconocen fácilmente por sus manos diestras, orejas redondeadas y cuerpos resistentes.<br><br><p>Su altura promedio oscila entre poco menos de 1,5 metros y aproximadamente 1,95 metros. Presentan una amplia variedad de complexiones: algunas son bastante anchas, otras ágiles, y muchas se encuentran en un rango intermedio. Los humanos son físicamente adaptables y se adaptan a climas rigurosos con relativa facilidad. En general, viven hasta los 100 años, con cambios físicos drásticos entre la juventud y la vejez.</p></p>"
+			"name": "인간",
+			"description": "<p>인간은 섬세한 손과 둥근 귀, 그리고 지구력에 강한 체형으로 알아볼 수 있습니다.<br><br><p>인간의 평균 키는 약 5피트보다 조금 작게부터 약 6피트 반 정도까지입니다. 체형은 매우 다양하여, 어떤 이는 상당히 체격이 크고, 또 다른 이는 날씬하며, 많은 이들이 그 중간 스펙트럼에 속합니다. 인간은 신체적으로 적응력이 뛰어나며, 가혹한 기후에도 비교적 쉽게 적응할 수 있습니다. 일반적으로 인간의 수명은 약 100세 정도이며, 가장 어린 시기와 가장 나이 든 시기 사이에 신체는 극적으로 변화합니다.</p></p>"
 		},
 		"Infernis": {
-			"description": "<p>Los infernis son humanoides con colmillos afilados, orejas puntiagudas y cuernos. Son descendientes de demonios de los Círculos Inferiores.<br><br><p class=\"green Body-Styles_Body\" chunk_id=\"2472bb3d-27fb-4638-a3e6-210e0f852235\">En promedio, los infernis miden entre 1,5 y 2,1 metros de altura y se caracterizan por tener dedos largos y uñas puntiagudas. Algunos tienen colas largas, delgadas y lisas que terminan en puntas, horquillas o puntas de flecha. Es común que los infernis tengan dos o cuatro cuernos, aunque algunos tienen coronas de varios cuernos o solo uno. Estos cuernos también pueden crecer asimétricamente, formando formas únicas, a menudo curvas, que los infernis realzan con tallados y ornamentación. Su piel, cabello y cuernos presentan una variedad de colores que pueden incluir pasteles suaves, tonos intensos o vibrantes, como el escarlata rosado, el morado oscuro y el negro intenso.</p>\n<p class=\"green Body-Styles_Body\" chunk_id=\"d470cbaf-01bb-42ad-bb35-ac20f32b4825\">Los Infernis poseen un \"rostro aterrador\" que se manifiesta tanto involuntariamente, como cuando experimentan miedo u otras emociones fuertes, como intencionadamente, como cuando desean intimidar a un adversario. Este rostro puede modificar brevemente su apariencia de diversas maneras, como alargar sus dientes y uñas, cambiar el color de sus ojos, torcer sus cuernos o aumentar su altura. En promedio, los infernis viven hasta 350 años, y algunos atribuyen esta esperanza de vida a su linaje demoníaco.</p></p>"
+			"name": "인페르니스",
+			"description": "<p>인페르니스는 날카로운 송곳니, 뾰족한 귀, 그리고 뿔을 가진 인간형으로, 하계에서 온 악마들의 후손입니다.<br><br><p class=\"green Body-Styles_Body\" chunk_id=\"2472bb3d-27fb-4638-a3e6-210e0f852235\">평균적으로 인페르니스는 키가 5피트에서 7피트 사이이며, 손가락이 길고 손톱이 뾰족한 것으로 알려져 있습니다. 어떤 인페르니스는 끝이 뾰족하거나, 갈라지거나, 화살촉 모양으로 마무리된 길고 가늘며 매끄러운 꼬리를 가지고 있습니다. 인페르니스가 두 개나 네 개의 뿔을 가진 것은 흔한 일이며, 어떤 경우에는 많은 뿔로 이루어진 왕관 모양의 뿔을 가지거나 단 하나의 뿔만 가지기도 합니다. 이러한 뿔은 비대칭적으로 자라 독특하고 종종 곡선적인 형태를 이루며, 인페르니스는 이를 조각하거나 장식하여 더욱 돋보이게 합니다. 이들의 피부, 머리카락, 뿔은 다양한 색상을 띠는데, 부드러운 파스텔 톤, 선명한 대비색, 혹은 장밋빛 주홍, 짙은 보라, 칠흑 같은 생생한 색조 등이 포함될 수 있습니다.</p>\n<p class=\"green Body-Styles_Body\" chunk_id=\"d470cbaf-01bb-42ad-bb35-ac20f32b4825\">인페르니스는 /“공포스러운 외양”/을 지니고 있으며, 이는 두 가지 방식으로 나타날 수 있습니다. 첫째는 두려움이나 다른 강렬한 감정을 느낄 때와 같이 무의식적으로 발현되는 경우이며, 둘째는 적대자를 위협하고자 할 때와 같이 의도적으로 드러내는 경우입니다. 이 얼굴은 잠시 동안 그들의 외형을 변화시킬 수 있으며, 치아와 손톱이 길어지거나, 눈의 색이 변하거나, 뿔이 뒤틀리거나, 키가 커지는 등의 다양한 형태로 나타납니다. 평균적으로 인페르니스는 약 350년을 살며, 일부는 이 긴 수명을 그들의 악마적 혈통에서 비롯된 것이라 설명합니다.</p></p>"
 		},
 		"Katari": {
-			"description": "<p>Los katari son humanoides felinos con garras retráctiles, pupilas verticales y orejas altas y triangulares.<br><br><p>También pueden tener colmillos pequeños y puntiagudos, pelaje suave y bigotes largos que les facilitan la percepción y la orientación. Sus orejas pueden girar casi 180 grados para detectar sonidos, lo que aumenta sus sentidos. Los katari pueden parecer más o menos felinos o humanoides, con atributos felinos como el pelo, los bigotes y el hocico. Aproximadamente la mitad de la población katari tiene cola. Su piel y pelaje presentan una amplia gama de tonos y patrones, incluyendo colores sólidos, rayas atigradas y una variedad de manchas, parches, jaspeado o bandas. Su altura oscila entre 90 y 1.95 metros, y viven unos 150 años.</p></p>"
+			"name": "카타리",
+			"description": "<p>카타리는 발톱을 집어넣을 수 있고, 세로로 찢어진 동공과 높이 솟은 삼각형 귀를 가진 고양이와 비슷한 인간형입니다.<br><br><p>카타리는 작고 뾰족한 송곳니, 부드러운 털, 그리고 지각과 길 찾기를 돕는 긴 수염을 가지고 있는 경우가 많습니다. 귀는 거의 180도까지 회전하여 소리를 탐지할 수 있으며, 이는 그들의 예민한 감각을 더욱 강화합니다. 카타리는 머리카락, 수염, 주둥이 형태로 나타나는 고양잇과의 특징을 지녀, 외형이 고양잇과에 더 가깝거나 인간형에 더 가까운 경우가 있습니다. 카타리 개체의 약 절반은 꼬리를 가지고 있습니다. 그들의 피부와 털은 단색, 삼색 고양이 무늬, 줄무늬 얼룩무늬, 그리고 다양한 점, 패치, 대리석 무늬, 띠무늬 등 폭넓은 색상과 패턴을 보입니다. 키는 약 3피트에서 6피트 반 정도이며, 수명은 약 150년입니다.</p></p>"
 		},
 		"Orc": {
-			"name": "Orco",
-			"description": "<p>Los orcos son humanoides que se reconocen fácilmente por sus rasgos cuadrados y colmillos similares a los de un jabalí que sobresalen de su mandíbula inferior.<br><br><p>Los colmillos vienen en varios tamaños, y aunque se extienden desde la boca, no se usan para consumir alimentos. En cambio, muchos orcos optan por decorarlos con abundante ornamentación. Los orcos suelen vivir 125 años y, a menos que se alteren, sus colmillos continúan creciendo a lo largo de su vida. Sus orejas son puntiagudas, y su pelo y piel suelen tener tonos verdes, azules, rosados ​​o grises. Los orcos tienden a ser musculosos, y su altura promedio oscila entre 1,5 y 1,9 metros.</p></p>"
+			"name": "오크",
+			"description": "<p>오크는 각진 얼굴과 아랫턱에서 돌출된 멧돼지 같은 엄니로 쉽게 알아볼 수 있는 인간형입니다.<br><br><p>엄니는 다양한 크기로 자라며, 입에서 뻗어 나오지만 음식을 먹는 데 사용되지는 않습니다. 대신, 많은 오크들은 엄니를 화려한 장신구로 꾸미기를 선택합니다. 오크의 수명은 일반적으로 125년 정도이며, 특별히 손질하지 않는 한, 엄니는 일생 동안 계속 자랍니다. 그들의 귀는 뾰족하며, 머리카락과 피부는 보통 초록, 파랑, 분홍, 또는 회색 계열의 색조를 띱니다. 오크는 대체로 근육질 체형을 가지며, 평균 키는 약 5피트에서 6피트 반 정도입니다.</p></p>"
 		},
 		"Ribbet": {
-			"description": "<p>Los ribbet se asemejan a ranas antropomórficas con ojos saltones y manos y pies con membranas.<br><br><p>Tienen piel lisa (aunque a veces verrugosa) y húmeda, y ojos ubicados a ambos lados de la cabeza. Algunos tienen patas traseras que miden más del doble de la longitud de su torso, mientras que otros tienen extremidades cortas. Independientemente de su tamaño (que varía entre 90 y 135 cm), los ribbet se mueven principalmente a saltos. Todos tienen apéndices con membranas, lo que les permite nadar con facilidad. Algunos poseen un camuflaje natural verde y marrón, mientras que otros presentan colores vibrantes con patrones llamativos. Independientemente de su apariencia, todos los ribbet nacen de huevos puestos en el agua, eclosionan en renacuajos y, después de unos 6 o 7 años, se convierten en anfibios que pueden desplazarse por la tierra. Viven aproximadamente 100 años.</p></p>"
+			"name": "리벳",
+			"description": "<p>리벳은 돌출된 눈과 물갈퀴가 달린 손발을 가진 의인화된 개구리 같은 모습입니다.<br><br><p>그들은 매끈한(때로는 사마귀가 돋은) 촉촉한 피부를 가지고 있으며, 머리 양옆에 눈이 자리잡고 있습니다. 어떤 리벳은 몸통 길이의 두 배가 넘는 뒷다리를 가지고 있는 반면, 다른 이들은 짧은 팔다리를 가지고 있습니다. 크기(약 3피트에서 4피트 반 정도)에 상관없이, 리벳은 주로 뛰어서 이동합니다. 모든 리벳은 물갈퀴가 달린 부속지를 가지고 있어 손쉽게 수영할 수 있습니다. 일부 리벳은 자연적인 초록색과 갈색의 위장 무늬를 지니지만, 다른 이들은 선명한 색상과 대담한 무늬를 띱니다. 외형에 관계없이, 모든 리벳은 물속에 낳은 알에서 태어나 올챙이로 부화하며, 약 6~7년이 지나면 육지에서 움직일 수 있는 양서류로 성장합니다. 리벳의 수명은 대략 100년 정도입니다.</p></p>"
 		},
 		"Simiah": {
-			"description": "<p>Los simiah se asemejan a monos y simios antropomórficos, con extremidades largas y patas prensiles.<br><br><p>Si bien su apariencia refleja la de todos los simios, desde el gorila más grande hasta el tití más pequeño, su tamaño no se corresponde con el de sus contrapartes animales, y pueden medir entre 60 y 1,80 metros de altura. Todos los simios pueden usar sus diestros pies para la comunicación no verbal, el trabajo y el combate. Además, algunos también tienen colas prensiles que les permiten agarrar objetos o mantener el equilibrio durante maniobras difíciles. Estos rasgos otorgan a los miembros de este linaje una agilidad única que les facilita diversas tareas físicas. En particular, los simiah son hábiles trepadores y pueden pasar fácilmente de moverse a dos patas a caminar con los nudillos y trepar, y viceversa. En promedio, los simiah viven unos 100 años.</p></p>"
+			"name": "시미아",
+			"description": "<p>시미아는 길게 뻗은 팔다리와 물건을 붙잡을 수 있는 발을 가진, 원숭이나 유인원 형태의 인간형입니다.<br><br><p>그들의 외형은 가장 큰 고릴라부터 가장 작은 마모셋에 이르기까지 모든 영장류 생물을 반영하지만, 실제 크기는 동물 상대와 일치하지 않으며, 약 2피트에서 6피트까지 다양합니다. 모든 시미아는 유연한 발을 사용하여 비언어적 의사소통, 작업, 전투를 수행할 수 있습니다. 또한 일부는 물건을 붙잡거나 까다로운 동작 중 균형을 유지하는 데 도움을 주는 잡을 수 있는 꼬리를 가지고 있습니다. 이러한 특성은 이 혈통의 구성원들에게 다양한 신체적 과업을 돕는 독특한 민첩성을 부여합니다. 특히 시미아는 뛰어난 등반가로, 두 발로 걷는 동작에서 손등으로 걷기와 등반으로, 다시 그 반대로도 쉽게 전환할 수 있습니다. 평균적으로 시미아는 약 100년 정도를 살아갑니다.</p></p>"
 		},
 
 		"Adaptability": {
-			"name": "Adaptabilidad",
-			"description": "<p>Cuando fallas una tirada en la que usaste una de tus Experiencias, puedes <strong>marcar un Estrés</strong> para volver a tirar.</p></p>",
-			"adaptability_action": "Marcar Estrés"
+			"name": "적응력",
+			"description": "<p>자신의 경험 중 하나를 사용한 굴림에 실패했을 때, <strong>스트레스를 표시</strong>하여 다시 굴릴 수 있습니다.</p></p>",
+			"adaptability_action": "스트레스 표시하기"
 		},
 		"Amphibious": {
-			"name": "Anfibio",
-			"description": "<p>Puedes respirar y moverte de forma normal bajo el agua.</p>"
+			"name": "양서류",
+			"description": "<p>물속에서 숨쉬고 자연스럽게 움직일 수 있습니다.</p>"
 		},
 		"Caprine Leap": {
 			"name": "Salto Caprino",
-			"description": "<p>Puedes saltar a cualquier lugar dentro del alcance cercano como si estuvieras usando un movimiento normal, lo que te permite superar obstáculos, saltar a través de huecos o escalar barreras con facilidad.</p>"
+			"description": "<p>정상적인 이동처럼 가까움 거리 안의 어느 곳으로든 도약할 수 있으며, 이를 통해 장애물을 뛰어넘거나 틈을 건너거나 장벽을 쉽게 오를 수 있습니다.</p>"
 		},
 		"Celestial Trance": {
-			"name": "Trance Celestial",
-			"description": "<p>Durante un descanso, puedes entrar en trance para elegir un movimiento adicional.</p>"
+			"name": "천상의 상",
+			"description": "<p>휴식 중에 명상 상태에 들어가 추가로 휴식 동작 하나를 선택할 수 있습니다.</p>"
 		}
 	}
 }
