@@ -1,35 +1,38 @@
 {
-	"label": "Comunidades",
+	"label": "공동체",
+	"mapping": {
+	"description": "system.description"
+	},
 	"folders": {
-		"Community Features": "Rasgos de comunidad"
+		"Community Features": "공동체 기능"
 	},
 	"entries": {
 		"Highborne": {
-			"name": "Noble"
+			"name": "상류층"
 		},
 		"Loreborne": {
-			"name": "Erudita"
+			"name": "지식층"
 		},
 		"Orderborne": {
-			"name": "Disciplinada"
+			"name": "규율 사회"
 		},
 		"Ridgeborne": {
-			"name": "Montañesa"
+			"name": "산악 민족"
 		},
 		"Seaborne": {
-			"name": "Marítima"
+			"name": "해양 민족"
 		},
 		"Slyborne": {
-			"name": "Granuja"
+			"name": "범죄 공동체"
 		},
 		"Underborne": {
-			"name": "Subterránea"
+			"name": "지하 공동체"
 		},
 		"Wanderborne": {
-			"name": "Errante"
+			"name": "유목 민족"
 		},
 		"Wildborne": {
-			"name": "Salvaje"
+			"name": "야생 공동체"
 		}
 	}
 }
