@@ -1,7 +1,7 @@
 {
 	"label": "방어구",
 	"mapping": {
-	"description": "system.description"
+		"description": "system.description"
 	},
 	"folders": {
 		"Special": "특별",
