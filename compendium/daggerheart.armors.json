@@ -15,7 +15,7 @@
 			"name": "비무장 전투",
 			"description": "<p></p><p class=\"Body-Foundation\">방어구를 착용하지 않으면, 기본 방어도는 3 + 근력이 되며, 다음을 기본 피해 임계치로 사용합니다:</p><ul><li class=\"vertical-card-list-found\"><em><strong>티어 1:</strong></em> 9/19</li><li class=\"vertical-card-list-found\"><em><strong>티어 2:</strong></em> 11/24</li><li class=\"vertical-card-list-found\"><em><strong>티어 3:</strong></em> 13/31</li><li class=\"vertical-card-list-found\"><em><strong>티어 4:</strong></em> 15/38</li></ul>"
 		},
-		"Chaimail Armor": {
+		"Chainmail Armor": {
 			"name": "사슬 갑옷",
 			"description": "중량: 회피 -1"
 		},
