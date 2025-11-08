@@ -2,6 +2,7 @@
 	"label": "서브클래스",
 	"mapping": {
 	"description": "system.description"
+	},
 	"folders": {
 		"Subclass Features": "서브클래스",
 		"Seraph": "세라프",
