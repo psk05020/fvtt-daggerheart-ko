@@ -7,6 +7,7 @@
     	"description": "system.description",
 
 		"adaptability_action": "system.actions.D7EE2L2Y96nfrfTW.name"
+		"celestial_trance_effects": "system.actions.LqQvZJJLNMnFkt1D.name"
 	},
 	"entries": {
 		"Clank": {
@@ -92,12 +93,13 @@
 			"description": "<p>물속에서 숨쉬고 자연스럽게 움직일 수 있습니다.</p>"
 		},
 		"Caprine Leap": {
-			"name": "Salto Caprino",
+			"name": "염소 도약",
 			"description": "<p>정상적인 이동처럼 가까움 거리 안의 어느 곳으로든 도약할 수 있으며, 이를 통해 장애물을 뛰어넘거나 틈을 건너거나 장벽을 쉽게 오를 수 있습니다.</p>"
 		},
 		"Celestial Trance": {
-			"name": "천상의 상",
+			"name": "천상의 명상",
 			"description": "<p>휴식 중에 명상 상태에 들어가 추가로 휴식 동작 하나를 선택할 수 있습니다.</p>"
+			"celestial_trance_effects": "천상의 명상"
 		}
 	}
 }
