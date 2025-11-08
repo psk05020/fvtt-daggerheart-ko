@@ -1,6 +1,7 @@
 {
 	"label": "야수 형태",
 	"mapping": {
+		"examples": "system.examples",
 		"description": "system.description"
 	},
 	"folders": {
@@ -13,6 +14,7 @@
 	"entries": {
 		"Agile Scout": {
 			"name": "민첩한 정찰자"
+			"examples": "Cascavel, naja, víbora etc."
 		},
 		"Aquatic Scout": {
 			"name": "수중 정찰자"
