@@ -1,84 +1,87 @@
 {
-	"label": "Formas bestiales",
+	"label": "야수 형태",
+	"mapping": {
+	"description": "system.description"
+	},
 	"folders": {
-		"Beastform Features": "Rasgos de forma bestial",
-		"Tier 1": "Rango 1",
-		"Tier 2": "Rango 2",
-		"Tier 3": "Rango 3",
-		"Tier 4": "Rango 4"
+		"Beastform Features": "야수 형태 기능",
+		"Tier 1": "티어 1",
+		"Tier 2": "티어 2",
+		"Tier 3": "티어 3",
+		"Tier 4": "티어 4"
 	},
 	"entries": {
 		"Agile Scout": {
-			"name": "Explorador ágil"
+			"name": "민첩한 정찰자"
 		},
 		"Aquatic Scout": {
-			"name": "Explorador acuático"
+			"name": "수중 정찰자"
 		},
 		"Household Friend": {
-			"name": "Mascota doméstica"
+			"name": "가정의 친구"
 		},
 		"Nimble Grazer": {
-			"name": "Hervíboro veloz"
+			"name": "기민한 초식동물"
 		},
 		"Pack Predator": {
-			"name": "Depredador de manada"
+			"name": "무리 포식자"
 		},
 		"Stalking Arachnid": {
-			"name": "Arácnido acechador"
+			"name": "잠복자 거미"
 		},
 		"Armored Sentry": {
-			"name": "Centinela acorazado"
+			"name": "장갑 감시자"
 		},
 		"Mighty Strider": {
-			"name": "Poderoso trotador"
+			"name": "강력한 탈것"
 		},
 		"Pouncing Predator": {
-			"name": "Depredador brincador"
+			"name": "도약하는 포식자"
 		},
 		"Powerful Beast": {
-			"name": "Bestia poderosa"
+			"name": "괴력의 야수"
 		},
 		"Striking Serpent": {
-			"name": "Sierpe imponente"
+			"name": "일격의 뱀"
 		},
 		"Winged Beast": {
-			"name": "Bestia alada"
+			"name": "비행 야수"
 		},
 		"Aquatic Predator": {
-			"name": "Depredador acuático"
+			"name": "수중 포식자"
 		},
 		"Great Predator": {
-			"name": "Gran depredador"
+			"name": "위대한 포식자"
 		},
 		"Great Winged Beast": {
-			"name": "Gran bestia alada"
+			"name": "위대한 비행 야수"
 		},
 		"Legendary Beast": {
-			"name": "Bestia legendaria"
+			"name": "전설적인 야수"
 		},
 		"Legendary Hybrid": {
-			"name": "Híbrido legendario"
+			"name": "전설적인 복합체"
 		},
 		"Mighty Lizard": {
-			"name": "Reptil poderoso"
+			"name": "강력한 도마뱀"
 		},
 		"Epic Aquatic Beast": {
-			"name": "Bestia acuática épica"
+			"name": "장대한 수중 야수"
 		},
 		"Massive Behemoth": {
-			"name": "Behemot enorme"
+			"name": "거대 괴수"
 		},
 		"Mythic Aerial Hunter": {
-			"name": "Cazador aéreo mítico"
+			"name": "신화 비행 사냥꾼"
 		},
 		"Mythic Beast": {
-			"name": "Bestia mítica"
+			"name": "신화 야수"
 		},
 		"Mythic Hybrid": {
-			"name": "Híbrido mítico"
+			"name": "신화 복합체"
 		},
 		"Terrible Lizard": {
-			"name": "Reptil terrible"
+			"name": "공포스러운 도마뱀"
 		},
 	}
 }
