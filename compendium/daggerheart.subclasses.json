@@ -1,71 +1,73 @@
 {
-	"label": "Subclases",
+	"label": "서브클래스",
+	"mapping": {
+	"description": "system.description"
 	"folders": {
-		"Subclass Features": "Rasgos de subclase",
-		"Seraph": "Serafín",
-		"Bard": "Bardo",
-		"Druid": "Druida",
-		"Guardian": "Guardián",
-		"Ranger": "Explorador",
-		"Rogue": "Pícaro",
-		"Warrior": "Guerrero",
-		"Wizard": "Mago",
-		"Sorcerer": "Hechicero"
+		"Subclass Features": "서브클래스",
+		"Seraph": "세라프",
+		"Bard": "바드",
+		"Druid": "드루이드",
+		"Guardian": "가디언",
+		"Ranger": "레인저",
+		"Rogue": "로그",
+		"Warrior": "워리어",
+		"Wizard": "위저드",
+		"Sorcerer": "소서러"
 	},
 	"entries": {
 		"Troubadour": {
-			"name": "Trobador"
+			"name": "트루바두르"
 		},
 		"Wordsmith": {
-			"name": "Forjapalabras"
+			"name": "워드스미스"
 		},
 		"Warden of the Elements": {
-			"name": "Custodio de los elementos"
+			"name": "원소의 감시자"
 		},
 		"Warden of Renewal": {
-			"name": "Custodio de la renovación"
+			"name": "재생의 감시자"
 		},
 		"Vengeance": {
-			"name": "Vengador"
+			"name": "복수"
 		},
 		"Stalwart": {
-			"name": "Baluarte"
+			"name": "충직"
 		},
 		"Beastbound": {
-			"name": "Vinculabestias"
+			"name": "야수결속"
 		},
 		"Wayfinder": {
-			"name": "Guía"
+			"name": "길잡이"
 		},
 		"Syndicate": {
-			"name": "Sindicato"
+			"name": "비밀요원"
 		},
 		"Nightwalker": {
-			"name": "Caminante sombrío"
+			"name": "밤의 방랑자"
 		},
 		"Divine Wielder": {
-			"name": "Portador divino"
+			"name": "신의 무기기"
 		},
 		"Winged Sentinel": {
-			"name": "Centinela alado"
+			"name": "날개 파수꾼"
 		},
 		"Elemental Origin": {
-			"name": "Origen elemental"
+			"name": "원소 기원"
 		},
 		"Primal Origin": {
-			"name": "Origen primordial"
+			"name": "원시 기원"
 		},
 		"Call Of The Brave": {
-			"name": "Llamado del valor"
+			"name": "용맹의 부름"
 		},
 		"Call Of The Slayer": {
-			"name": "Llamado del verdugo"
+			"name": "학살자의 부름"
 		},
 		"School Of Knowledge": {
-			"name": "Escuela del conocimiento"
+			"name": "지식 학파"
 		},
 		"School of War": {
-			"name": "Escuela de la guerra"
+			"name": "전쟁 학파"
 		}
 	}
 }
