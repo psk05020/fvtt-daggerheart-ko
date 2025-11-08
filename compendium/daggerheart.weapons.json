@@ -1,7 +1,7 @@
 {
 	"label": "무기",
 	"mapping": {
-	"description": "system.description"
+		"description": "system.description"
 	},
 	"folders": {
 		"Combat Wheelchairs": "전투 휠체어",
