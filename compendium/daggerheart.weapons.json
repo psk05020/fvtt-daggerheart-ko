@@ -1,5 +1,8 @@
 {
 	"label": "무기",
+	"mapping": {
+	"description": "system.description"
+	},
 	"folders": {
 		"Combat Wheelchairs": "전투 휠체어",
 		"Primary Weapons": "주 무기",
