@@ -29,7 +29,7 @@
       "description": "<p>다음 근력 굴림에 +1 보너스를 얻습니다.</p>"
     },
     "Bonding Honey": {
-      "name": "결속 벌",
+      "name": "결속 벌꿀",
       "description": "<p>두 물체를 영구히 접착할 수 있습니다.</p>"
     },
     "Bridge Seed": {
@@ -246,3 +246,4 @@
     }
   }
 }
+
