@@ -24,7 +24,7 @@
                 "hBh4Lt0Bdd9CtJY7" {
 					"description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 비전 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식마다 한 번, 희망 주사와와 공포 주사위의 결과를 서로 바꿀 수 있습니다.</p></li></ul>"
             	}
-			}	
+			}
         },
         "Arcane Reflection": {
             "name": "비전 반사",
@@ -124,7 +124,7 @@
             "description": "<p class=\"Body-Foundation\">매력 굴림을 할 때, <strong>희망을 소모</strong>하여 그 굴림에 자신의 근력을 더할 수 있습니다.</p><p class=\"Body-Foundation\">또한, 휴식 당 한 번, 상태가 적용될 상황에서 자신의 대담한 기개가 어떻게 도움이 되었는지 묘사하면, 그 상태를 받지 않을 수 있습니다.</p>",
             "actions": {
                 "GYXo5c2OYS3v1UBA": {
-					"description": "<p class=\"Body-Foundation\">매력 굴림을 할 때, <strong>희망을 소모</strong>하여 그 굴림에 자신의 근력을 더할 수 있습니다.</p>",
+					"description": "<p class=\"Body-Foundation\">매력 굴림을 할 때, <strong>희망을 소모</strong>하여 그 굴림에 자신의 근력을 더할 수 있습니다.</p>"
 				},
 				"OdRTXMOXhZFiZHES": {
 					"description": "<p class=\"Body-Foundation\">휴식 당 한 번, 상태가 적용될 상황에서 자신의 대담한 기개가 어떻게 도움이 되었는지 묘사하면, 그 상태를 받지 않을 수 있습니다.</p>"
@@ -154,13 +154,13 @@
             "description": "<p class='Card-Feature'><strong>강한 밀치기:</strong> 근접 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, 대상을 먼 거리로 밀쳐내고 숙련을 사용해 <strong>d10+2</strong> 마법 피해를 줍니다.</p><p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 접촉한 대상의 방어도에 +1 보너스를 부여합니다. 이 효과는 해당 대상이 다음 휴식을 취하거나 당신이 다시 타바의 갑옷을 시전할 때까지 지속됩니다.</p><p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>",
             "actions": {
                 "jX4wg2HR2xkdtbIU": {
-					"description": "<p class='Card-Feature'><strong><strong>강한 밀치기:</strong> 근접 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, 대상을 먼 거리로 밀쳐내고 숙련을 사용해 <strong>d10+2</strong> 마법 피해를 줍니다.</p>",
+					"description": "<p class='Card-Feature'><strong><strong>강한 밀치기:</strong> 근접 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, 대상을 먼 거리로 밀쳐내고 숙련을 사용해 <strong>d10+2</strong> 마법 피해를 줍니다.</p>"
 				},
 				"4N7ViDYt9Na3zwzi": {
-					"description": "<p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 접촉한 대상의 방어도에 +1 보너스를 부여합니다. 이 효과는 해당 대상이 다음 휴식을 취하거나 당신이 다시 타바의 갑옷을 시전할 때까지 지속됩니다.</p>",
+					"description": "<p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 접촉한 대상의 방어도에 +1 보너스를 부여합니다. 이 효과는 해당 대상이 다음 휴식을 취하거나 당신이 다시 타바의 갑옷을 시전할 때까지 지속됩니다.</p>"
 				},
 				"XU1joyIDFZrQiToF": {
-					"description": "<p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>",
+					"description": "<p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>"
 				},
 				"enit3ZkPp0nY5lN1": {
 					"description": "<p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>"
@@ -172,10 +172,10 @@
             "description": "<p class='Card-Feature'><strong>거부:</strong> 현재 진행 중인 마법 효과를 방해할 수 있습니다. 주문시전 특성을 사용하여 대응 굴림을 합니다. 휴식 당 1회, 성공하면 해당 효과는 중지되고, 그로 인한 모든 결과를 피합니다.</p><p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>",
             "actions": {
                 "6eioK8CoAPfObBP2": {
-					"description": "<p class='Card-Feature'><strong>거부:</strong> 현재 진행 중인 마법 효과를 방해할 수 있습니다. 주문시전 특성을 사용하여 대응 굴림을 합니다. 휴식 당 1회, 성공하면 해당 효과는 중지되고, 그로 인한 모든 결과를 피합니다.</p>",
+					"description": "<p class='Card-Feature'><strong>거부:</strong> 현재 진행 중인 마법 효과를 방해할 수 있습니다. 주문시전 특성을 사용하여 대응 굴림을 합니다. 휴식 당 1회, 성공하면 해당 효과는 중지되고, 그로 인한 모든 결과를 피합니다.</p>"
 				},
 				"6JWhxevxbL0sOcbv": {
-					"description": "<p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>",
+					"description": "<p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>"
 				},
 				"MGVKJ8wVac1v8eJv": {
 					"description": "<p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>"
@@ -1403,6 +1403,7 @@
         }
     }
 }
+
 
 
 
