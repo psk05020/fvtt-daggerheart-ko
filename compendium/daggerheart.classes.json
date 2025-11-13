@@ -5,10 +5,6 @@
 		"actions": {
             "path": "system.actions",
             "converter": "toActions"
-        },
-		"effects": {
-            "path": "system.effects",
-            "converter": "toEffects"
         }
 	},
 	"folders": {
@@ -227,13 +223,7 @@
         },
         "Sneak Attack": {
             "name": "암습 공격",
-            "description": "<p>은폐 상태이거나, 대상의 근접 거리 내에 아군이 있을 때 공격에 성공하면, 자신의 티어와 같은 수의 d6을 피해 굴림에 추가합니다.</p><ul><li><p> 1레벨 → 티어 1</p></li><li><p> 2–4레벨 → 티어 2</p></li><li><p> 5–7레벨 → 티어 3</p></li><li><p> 8–10레벨 → 티어 4</p></li></ul>",
-            "effects": {
-                "SfctrIW5KjH4nq5G": {
-					"name": "암습 공격",
-					"description": "<p>은폐 상태이거나, 대상의 근접 거리 내에 아군이 있을 때 공격에 성공하면, 자신의 티어와 같은 수의 d6을 피해 굴림에 추가합니다.</p><ul><li><p> 1레벨 → 티어 1</p></li><li><p> 2–4레벨 → 티어 2</p></li><li><p> 5–7레벨 → 티어 3</p></li><li><p> 8–10레벨 → 티어 4</p></li></ul>"
-				}
-			}
+            "description": "<p>은폐 상태이거나, 대상의 근접 거리 내에 아군이 있을 때 공격에 성공하면, 자신의 티어와 같은 수의 d6을 피해 굴림에 추가합니다.</p><ul><li><p> 1레벨 → 티어 1</p></li><li><p> 2–4레벨 → 티어 2</p></li><li><p> 5–7레벨 → 티어 3</p></li><li><p> 8–10레벨 → 티어 4</p></li></ul>"
         },
         "Strange Patterns": {
             "name": "기묘한 문양",
