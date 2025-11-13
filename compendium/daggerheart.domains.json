@@ -21,15 +21,19 @@
             "name": "비전 각인",
             "description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 비전 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식마다 한 번, 희망 주사와와 공포 주사위의 결과를 서로 바꿀 수 있습니다.</p></li></ul>",
             "actions": {
-                "hBh4Lt0Bdd9CtJY7": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 비전 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식마다 한 번, 희망 주사와와 공포 주사위의 결과를 서로 바꿀 수 있습니다.</p></li></ul>"
-            }
+                "hBh4Lt0Bdd9CtJY7" {
+					"description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 비전 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식마다 한 번, 희망 주사와와 공포 주사위의 결과를 서로 바꿀 수 있습니다.</p></li></ul>"
+            	}
+			}	
         },
         "Arcane Reflection": {
             "name": "비전 반사",
             "description": "<p class=\"Body-Foundation\">마법 피해를 입게 될 때, 원하는 수만큼 <strong>희망을 소모</strong>하여 같은 수의 <strong>d6</strong>을 굴릴 수 있습니다. 주사위 중 하나라도 6이 나오면, 그 공격은 시전자에게 반사되어 피해를 대신 입힙니다.</p>",
             "actions": {
-                "45ywf6Juwz4mmn9j": "<p class=\"Body-Foundation\">마법 피해를 입게 될 때, 원하는 수만큼 <strong>희망을 소모</strong>하여 같은 수의 <strong>d6</strong>을 굴릴 수 있습니다. 주사위 중 하나라도 6이 나오면, 그 공격은 시전자에게 반사되어 피해를 대신 입힙니다.</p>"
-            }
+                "45ywf6Juwz4mmn9j": {
+					"description": "<p class=\"Body-Foundation\">마법 피해를 입게 될 때, 원하는 수만큼 <strong>희망을 소모</strong>하여 같은 수의 <strong>d6</strong>을 굴릴 수 있습니다. 주사위 중 하나라도 6이 나오면, 그 공격은 시전자에게 반사되어 피해를 대신 입힙니다.</p>"
+				}
+			}
         },
         "Armorer": {
             "name": "병기공",
@@ -42,22 +46,28 @@
             "name": "영체 투영",
             "description": "<p class=\"Body-Foundation\">긴 휴식 당 1회, <strong>스트레스를 표시</strong>하여 예전에 가본 적 있는 어느 곳에나 자신의 복제를 투영해낼 수 있습니다.</p><p class=\"Body-Foundation\">당신은 그 투영을 통해 마치 자신이 그곳에 있는 것처럼 보고 들을 수 있으며, 그곳에서 직접 있는 것처럼 세상에 영향을 미칠 수 있습니다. 투영을 조사하는 생물은 그것이 마법적 기원임을 알아차릴 수 있습니다. 이 효과는 당신이 다음 휴식을 취하거나 투영이 피해를 입을 때까지 지속됩니다.</p>",
             "actions": {
-                "jhEOXtmSiwm4AX1R": "<p class=\"Body-Foundation\">긴 휴식 당 1회, <strong>스트레스를 표시</strong>하여 예전에 가본 적 있는 어느 곳에나 자신의 복제를 투영해낼 수 있습니다.</p><p class=\"Body-Foundation\">당신은 그 투영을 통해 마치 자신이 그곳에 있는 것처럼 보고 들을 수 있으며, 그곳에서 직접 있는 것처럼 세상에 영향을 미칠 수 있습니다. 투영을 조사하는 생물은 그것이 마법적 기원임을 알아차릴 수 있습니다. 이 효과는 당신이 다음 휴식을 취하거나 투영이 피해를 입을 때까지 지속됩니다.</p>"
-            }
+                "jhEOXtmSiwm4AX1R": {
+					"description": "<p class=\"Body-Foundation\">긴 휴식 당 1회, <strong>스트레스를 표시</strong>하여 예전에 가본 적 있는 어느 곳에나 자신의 복제를 투영해낼 수 있습니다.</p><p class=\"Body-Foundation\">당신은 그 투영을 통해 마치 자신이 그곳에 있는 것처럼 보고 들을 수 있으며, 그곳에서 직접 있는 것처럼 세상에 영향을 미칠 수 있습니다. 투영을 조사하는 생물은 그것이 마법적 기원임을 알아차릴 수 있습니다. 이 효과는 당신이 다음 휴식을 취하거나 투영이 피해를 입을 때까지 지속됩니다.</p>"
+				}
+			}
         },
         "A Soldier’s Bond": {
             "name": "병사의 유대",
             "description": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 누군가를 칭찬하거나 그들이 잘하는 것에 대해 물어볼 때, 당신과 그 사람 모두 희망을 3 얻을 수 있습니다.</p>",
             "actions": {
-                "7Tcn3wYxEIGEfbJ5": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 누군가를 칭찬하거나 그들이 잘하는 것에 대해 물어볼 때, 당신과 그 사람 모두 희망을 3 얻을 수 있습니다.</p>"
-            }
+                "7Tcn3wYxEIGEfbJ5": {
+					"description": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 누군가를 칭찬하거나 그들이 잘하는 것에 대해 물어볼 때, 당신과 그 사람 모두 희망을 3 얻을 수 있습니다.</p>"
+				}
+			}
         },
         "Banish": {
             "name": "추방",
             "description": "<p><p class=\"Body-Foundation\">가까운 거리 안의 대상에 맞서 주문시전 굴림을 합니다. 성공하면, 당신의 주문시전 특성과 같은 수의 <strong>d20</strong>을 굴립니다. 대상은 그중 가장 높은 결과를 난이도로 하는 대응 굴림을 해야 합니다. 성공하면, 그 대상은 스트레스를 1 표시하지만 추방되지 않습니다. 휴식 당 1회, 이 대응 굴림에 실패하면 그 대상은 이 세계에서 추방됩니다. </p><p class=\"Body-Foundation\">PC들이 공포 굴림을 했을 때, 난이도에 -1 불이익을 받고, 대상은 다시 한 번 대응 굴림을 합니다. 이 대응 굴림에 성공하면, 대상은 추방에서 돌아옵니다.</p></p>",
             "actions": {
-                "pgBalKb5NeRFQ9rt": "<p><p class=\"Body-Foundation\">가까운 거리 안의 대상에 맞서 주문시전 굴림을 합니다. 성공하면, 당신의 주문시전 특성과 같은 수의 <strong>d20</strong>을 굴립니다. 대상은 그중 가장 높은 결과를 난이도로 하는 대응 굴림을 해야 합니다. 성공하면, 그 대상은 스트레스를 1 표시하지만 추방되지 않습니다. 휴식 당 1회, 이 대응 굴림에 실패하면 그 대상은 이 세계에서 추방됩니다. </p><p class=\"Body-Foundation\">PC들이 공포 굴림을 했을 때, 난이도에 -1 불이익을 받고, 대상은 다시 한 번 대응 굴림을 합니다. 이 대응 굴림에 성공하면, 대상은 추방에서 돌아옵니다.</p></p>"
-            }
+                "pgBalKb5NeRFQ9rt": {
+					"description": "<p><p class=\"Body-Foundation\">가까운 거리 안의 대상에 맞서 주문시전 굴림을 합니다. 성공하면, 당신의 주문시전 특성과 같은 수의 <strong>d20</strong>을 굴립니다. 대상은 그중 가장 높은 결과를 난이도로 하는 대응 굴림을 해야 합니다. 성공하면, 그 대상은 스트레스를 1 표시하지만 추방되지 않습니다. 휴식 당 1회, 이 대응 굴림에 실패하면 그 대상은 이 세계에서 추방됩니다. </p><p class=\"Body-Foundation\">PC들이 공포 굴림을 했을 때, 난이도에 -1 불이익을 받고, 대상은 다시 한 번 대응 굴림을 합니다. 이 대응 굴림에 성공하면, 대상은 추방에서 돌아옵니다.</p></p>"
+				}
+			}
         },
         "Bare Bones": {
             "name": "비무장 전투",
@@ -67,22 +77,28 @@
             "name": "전장의 함성",
             "description": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 위험 속으로 돌진할 때 아군을 고무하는 힘찬 외침을 발할 수 있습니다. 당신의 목소리를 들을 수 있는 모든 아군은 각각 스트레스를 1 제거하고 희망을 1 얻습니다. 또한, 당신이나 아군이 공포로 실패를 굴리기 전까지 당신을 제외한 아군은 공격 굴림에서 이점을 얻습니다.</p>",
             "actions": {
-                "jakoB9n8KSgvYVZv": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 위험 속으로 돌진할 때 아군을 고무하는 힘찬 외침을 발할 수 있습니다. 당신의 목소리를 들을 수 있는 모든 아군은 각각 스트레스를 1 제거하고 희망을 1 얻습니다. 또한, 당신이나 아군이 공포로 실패를 굴리기 전까지 당신을 제외한 아군은 공격 굴림에서 이점을 얻습니다.</p>"
-            }
+                "jakoB9n8KSgvYVZv": {
+					"description": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 위험 속으로 돌진할 때 아군을 고무하는 힘찬 외침을 발할 수 있습니다. 당신의 목소리를 들을 수 있는 모든 아군은 각각 스트레스를 1 제거하고 희망을 1 얻습니다. 또한, 당신이나 아군이 공포로 실패를 굴리기 전까지 당신을 제외한 아군은 공격 굴림에서 이점을 얻습니다.</p>"
+				}
+			}
         },
         "Battle-Hardened": {
             "name": "전투로 단련된 자",
             "description": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 죽음 동작을 하게 될 때 <strong>희망을 소모</strong>하여 대신 HP 1개를 회복할 수 있습니다.</p>",
             "actions": {
-                "iucXKML1P8Q7nmcp": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 죽음 동작을 하게 될 때 <strong>희망을 소모</strong>하여 대신 HP 1개를 회복할 수 있습니다.</p>"
-            }
+                "iucXKML1P8Q7nmcp": {
+					"description": "<p class=\"Body-Foundation\">긴 휴식마다 한 번, 죽음 동작을 하게 될 때 <strong>희망을 소모</strong>하여 대신 HP 1개를 회복할 수 있습니다.</p>"
+				}
+			}
         },
         "Battle Monster": {
             "name": "전장의 괴물",
             "description": "<p class=\"Body-Foundation\">적대자에게 공격을 성공했을 때, <strong>스트레스를 4 표시</strong>하여 피해를 굴리는 대신, 현재 당신이 표시하고 있는 HP와 같은 수의 HP를 그 대상이 표시하게 할 수 있습니다.</p>",
             "actions": {
-                "lekCIrTCQ2FhwGd1": "<p class=\"Body-Foundation\">적대자에게 공격을 성공했을 때, <strong>스트레스를 4 표시</strong>하여 피해를 굴리는 대신, 현재 당신이 표시하고 있는 HP와 같은 수의 HP를 그 대상이 표시하게 할 수 있습니다.</p>"
-            }
+                "lekCIrTCQ2FhwGd1": {
+					"description": "<p class=\"Body-Foundation\">적대자에게 공격을 성공했을 때, <strong>스트레스를 4 표시</strong>하여 피해를 굴리는 대신, 현재 당신이 표시하고 있는 HP와 같은 수의 HP를 그 대상이 표시하게 할 수 있습니다.</p>"
+				}
+			}
         },
         "Blade-Touched": {
             "name": "칼날 각인",
@@ -92,8 +108,10 @@
             "name": "점멸",
             "description": "<p><p class=\"Body-Foundation\"><strong>주문시전 굴림 (12)</strong>에 성공하면, <strong>희망을 소모</strong>하여 먼 거리 안에서 눈에 보이는 다른 지점으로 순간이동합니다. 매우 가까운 거리 내에 이동을 원하는 생물이 있다면, 각 생물마다 <strong>희망을 추가로 1 소모</strong>하여 함께 데려갈 수 있습니다.  </p></p>",
             "actions": {
-                "LsAdmSinOiNr9jH8": "<p><p class=\"Body-Foundation\"><strong>주문시전 굴림 (12)</strong>에 성공하면, <strong>희망을 소모</strong>하여 먼 거리 안에서 눈에 보이는 다른 지점으로 순간이동합니다. 매우 가까운 거리 내에 이동을 원하는 생물이 있다면, 각 생물마다 <strong>희망을 추가로 1 소모</strong>하여 함께 데려갈 수 있습니다.  </p></p>"
-            }
+                "LsAdmSinOiNr9jH8": {
+					"description": "<p><p class=\"Body-Foundation\"><strong>주문시전 굴림 (12)</strong>에 성공하면, <strong>희망을 소모</strong>하여 먼 거리 안에서 눈에 보이는 다른 지점으로 순간이동합니다. 매우 가까운 거리 내에 이동을 원하는 생물이 있다면, 각 생물마다 <strong>희망을 추가로 1 소모</strong>하여 함께 데려갈 수 있습니다.  </p></p>"
+				}
+			}
         },
         "Body Basher": {
             "name": "몸통 박치기",
@@ -103,42 +121,64 @@
             "name": "대담한 기개",
             "description": "<p class=\"Body-Foundation\">매력 굴림을 할 때, <strong>희망을 소모</strong>하여 그 굴림에 자신의 근력을 더할 수 있습니다.</p><p class=\"Body-Foundation\">또한, 휴식 당 한 번, 상태가 적용될 상황에서 자신의 대담한 기개가 어떻게 도움이 되었는지 묘사하면, 그 상태를 받지 않을 수 있습니다.</p>",
             "actions": {
-                "GYXo5c2OYS3v1UBA": "<p class=\"Body-Foundation\">매력 굴림을 할 때, <strong>희망을 소모</strong>하여 그 굴림에 자신의 근력을 더할 수 있습니다.</p>",
-                "OdRTXMOXhZFiZHES": "<p class=\"Body-Foundation\">휴식 당 한 번, 상태가 적용될 상황에서 자신의 대담한 기개가 어떻게 도움이 되었는지 묘사하면, 그 상태를 받지 않을 수 있습니다.</p>"
-            }
+                "GYXo5c2OYS3v1UBA": {
+					"description": "<p class=\"Body-Foundation\">매력 굴림을 할 때, <strong>희망을 소모</strong>하여 그 굴림에 자신의 근력을 더할 수 있습니다.</p>",
+				},
+				"OdRTXMOXhZFiZHES": {
+					"description": "<p class=\"Body-Foundation\">휴식 당 한 번, 상태가 적용될 상황에서 자신의 대담한 기개가 어떻게 도움이 되었는지 묘사하면, 그 상태를 받지 않을 수 있습니다.</p>"
+				}
+			}
         },
         "Bolt Beacon": {
             "name": "섬광의 봉화",
             "description": "<p class='Body-Foundation'>먼 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, <strong>희망을 소모</strong>하여 대상에게 반짝이는 빛줄기를 발사해 숙련을 사용하여 <strong>d8+2</strong> 마법 피해를 줍니다. 대상은 일시적으로 취약 상태가 되며, 이 상태가 끝날 때까지 밝게 빛납니다.</p>",
             "actions": {
-                "zrGLlwmpuUIBrSXy": "<p class='Body-Foundation'>먼 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, <strong>희망을 소모</strong>하여 대상에게 반짝이는 빛줄기를 발사해 숙련을 사용하여 <strong>d8+2</strong> 마법 피해를 줍니다. 대상은 일시적으로 취약 상태가 되며, 이 상태가 끝날 때까지 밝게 빛납니다.</p>"
-            }
+                "zrGLlwmpuUIBrSXy": {
+					"description": "<p class='Body-Foundation'>먼 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, <strong>희망을 소모</strong>하여 대상에게 반짝이는 빛줄기를 발사해 숙련을 사용하여 <strong>d8+2</strong> 마법 피해를 줍니다. 대상은 일시적으로 취약 상태가 되며, 이 상태가 끝날 때까지 밝게 빛납니다.</p>"
+				}
+			}
         },
         "Bone-Touched": {
             "name": "뼈 각인",
             "description": "<p class='Body-Foundation-No-BOLDITALIC'>장비한 권역 카드 중 4장 이상이 뼈 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스를 받습니다.</p></li><li class='vertical-card-list-found'><p>휴식 당 1회, <strong>희망 3을 소모</strong>하여 당신에게 명중한 공격을 실패하게 만들 수 있습니다.</p></li></ul>",
             "actions": {
-                "pRSiIoh4Bzk5I9ej": "<p class='Body-Foundation-No-BOLDITALIC'>장비한 권역 카드 중 4장 이상이 뼈 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스를 받습니다.</p></li><li class='vertical-card-list-found'><p>휴식 당 1회, <strong>희망 3을 소모</strong>하여 당신에게 명중한 공격을 실패하게 만들 수 있습니다.</p></li></ul>"
-            }
+                "pRSiIoh4Bzk5I9ej": {
+					"description": "<p class='Body-Foundation-No-BOLDITALIC'>장비한 권역 카드 중 4장 이상이 뼈 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스를 받습니다.</p></li><li class='vertical-card-list-found'><p>휴식 당 1회, <strong>희망 3을 소모</strong>하여 당신에게 명중한 공격을 실패하게 만들 수 있습니다.</p></li></ul>"
+				}
+			}
         },
         "Book of Ava": {
             "name": "아바의 서",
             "description": "<p class='Card-Feature'><strong>강한 밀치기:</strong> 근접 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, 대상을 먼 거리로 밀쳐내고 숙련을 사용해 <strong>d10+2</strong> 마법 피해를 줍니다.</p><p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 접촉한 대상의 방어도에 +1 보너스를 부여합니다. 이 효과는 해당 대상이 다음 휴식을 취하거나 당신이 다시 타바의 갑옷을 시전할 때까지 지속됩니다.</p><p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>",
             "actions": {
-                "jX4wg2HR2xkdtbIU": "<p class='Card-Feature'><strong><strong>강한 밀치기:</strong> 근접 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, 대상을 먼 거리로 밀쳐내고 숙련을 사용해 <strong>d10+2</strong> 마법 피해를 줍니다.</p>",
-                "4N7ViDYt9Na3zwzi": "<p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 접촉한 대상의 방어도에 +1 보너스를 부여합니다. 이 효과는 해당 대상이 다음 휴식을 취하거나 당신이 다시 타바의 갑옷을 시전할 때까지 지속됩니다.</p>",
-                "XU1joyIDFZrQiToF": "<p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>",
-                "enit3ZkPp0nY5lN1": "<p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>"
-            }
+                "jX4wg2HR2xkdtbIU": {
+					"description": "<p class='Card-Feature'><strong><strong>강한 밀치기:</strong> 근접 거리 내의 대상에게 맞서 <strong>주문시전 굴림</strong>을 합니다. 성공하면, 대상을 먼 거리로 밀쳐내고 숙련을 사용해 <strong>d10+2</strong> 마법 피해를 줍니다.</p>",
+				},
+				"4N7ViDYt9Na3zwzi": {
+					"description": "<p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 접촉한 대상의 방어도에 +1 보너스를 부여합니다. 이 효과는 해당 대상이 다음 휴식을 취하거나 당신이 다시 타바의 갑옷을 시전할 때까지 지속됩니다.</p>",
+				},
+				"XU1joyIDFZrQiToF": {
+					"description": "<p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>",
+				},
+				"enit3ZkPp0nY5lN1": {
+					"description": "<p class='Card-Feature'><strong>얼음 가시:</strong> 먼 거리 내에 커다란 얼음 가시를 소환하기 위해 <strong>주문시전 굴림 (12)</strong>을 합니다. 무기로 사용하려면, 주문시전 굴림은 대상의 난이도에 맞서 수행합니다. 성공하면, 숙련을 사용해 <strong>d6</strong> 물리 피해를 줍니다.</p>"
+				}
+			}
         },
         "Book of Exota": {
             "name": "엑소타의 서",
             "description": "<p class='Card-Feature'><strong>거부:</strong> 현재 진행 중인 마법 효과를 방해할 수 있습니다. 주문시전 특성을 사용하여 대응 굴림을 합니다. 휴식 당 1회, 성공하면 해당 효과는 중지되고, 그로 인한 모든 결과를 피합니다.</p><p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>",
             "actions": {
-                "6eioK8CoAPfObBP2": "<p class='Card-Feature'><strong>거부:</strong> 현재 진행 중인 마법 효과를 방해할 수 있습니다. 주문시전 특성을 사용하여 대응 굴림을 합니다. 휴식 당 1회, 성공하면 해당 효과는 중지되고, 그로 인한 모든 결과를 피합니다.</p>",
-                "6JWhxevxbL0sOcbv": "<p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>",
-                "MGVKJ8wVac1v8eJv": "<p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>"
-            }
+                "6eioK8CoAPfObBP2": {
+					"description": "<p class='Card-Feature'><strong>거부:</strong> 현재 진행 중인 마법 효과를 방해할 수 있습니다. 주문시전 특성을 사용하여 대응 굴림을 합니다. 휴식 당 1회, 성공하면 해당 효과는 중지되고, 그로 인한 모든 결과를 피합니다.</p>",
+				},
+				"6JWhxevxbL0sOcbv": {
+					"description": "<p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>",
+				},
+				"MGVKJ8wVac1v8eJv": {
+					"description": "<p class='Card-Feature'><strong>구조체 창조:</strong> <strong>희망을 소모</strong>하여 주변의 물체 집단을 선택하고, 그것들로부터 기본적인 명령에 따르는 움직이는 구조체를 만들어냅니다. 구조체에게 행동 명령을 내릴 때는 주문시전 굴림을 합니다. 필요한 경우 구조체는 당신의 회피와 특성을 공유하며, 공격 시 <strong>2d10+3</strong> 물리 피해를 줍니다. 한 번에 하나의 구조체만 유지할 수 있으며, 구조체는 피해를 조금이라도 입으면 붕괴합니다.</p>"
+				}
+			}
         },
         "Book of Grynn": {
             "name": "Книга Гринна",
@@ -1361,6 +1401,7 @@
         }
     }
 }
+
 
 
 
