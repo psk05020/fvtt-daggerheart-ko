@@ -39,8 +39,10 @@
             "name": "병기공",
             "description": "<p class=\"Body-Foundation\">방어구를 착용하면, 방어도에 +1 보너스를 얻습니다.</p><p class=\"Body-Foundation\">휴식 중, 방어구를 수리하는 휴식 동작을 선택하면, 다른 모든 아군도 방어 슬롯을 1 회복합니다.</p>",
             "actions": {
-                "Z864RtY6fR5Cnrx9": "<p class=\"Body-Foundation\">방어구를 착용하면, 방어도에 +1 보너스를 얻습니다.</p><p class=\"Body-Foundation\">휴식 중, 방어구를 수리하는 휴식 동작을 선택하면, 다른 모든 아군도 방어 슬롯을 1 회복합니다.</p>"
-            }
+                "Z864RtY6fR5Cnrx9": {
+					"description": <p class=\"Body-Foundation\">방어구를 착용하면, 방어도에 +1 보너스를 얻습니다.</p><p class=\"Body-Foundation\">휴식 중, 방어구를 수리하는 휴식 동작을 선택하면, 다른 모든 아군도 방어 슬롯을 1 회복합니다.</p>"
+				}
+			}
         },
         "Astral Projection": {
             "name": "영체 투영",
@@ -1401,6 +1403,7 @@
         }
     }
 }
+
 
 
 
