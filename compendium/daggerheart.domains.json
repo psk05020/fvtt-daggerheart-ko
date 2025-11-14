@@ -32,9 +32,7 @@
             	}
 			},
 			"effects": [
-				"Arcana-Touched": {
-					"name": "비전 각인"
-				}
+				"Arcana-Touched": "격려"
 			]
         },
         "Arcane Reflection": {
@@ -1518,6 +1516,7 @@
         }
     }
 }
+
 
 
 
