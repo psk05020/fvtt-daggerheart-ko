@@ -7,8 +7,8 @@
 				"converter": "toActions"
 			},
 			"effects": {
-				"path": "system.actions",
-				"converter": "toActions"
+				"path": "system.effects",
+				"converter": "toEffects"
 			}
     },
     "entries": {
@@ -1516,6 +1516,7 @@
         }
     }
 }
+
 
 
 
