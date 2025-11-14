@@ -31,9 +31,10 @@
 					"description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 비전 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식마다 한 번, 희망 주사와와 공포 주사위의 결과를 서로 바꿀 수 있습니다.</p></li></ul>"
             	}
 			},
-			"effects": [
-				"Arcana-Touched": "격려"
-			]
+			"effects": {
+				"Arcana-Touched": {
+					"name": "비전 각인"
+			}
         },
         "Arcane Reflection": {
             "name": "비전 반사",
@@ -1516,6 +1517,7 @@
         }
     }
 }
+
 
 
 
