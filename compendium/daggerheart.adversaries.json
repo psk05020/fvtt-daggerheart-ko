@@ -17,7 +17,7 @@
 			"tokenName": "Cultista Adepto",
 			"id": "Cult Adept",
 			"description": "Um mago experiente que lida com sombras e medo.",
-			"motivesAndTactics": "bajular, atrapalhar inimigos, fazer descobertas"
+			"motivesAndTactics": "bajular, atrapalhar inimigos, fazer descobertas",
 			"system": {
 				"attack": {
 					"name": "테스트"
@@ -708,7 +708,18 @@
 			"tokenName": "Crânio do Caos",
 			"id": "Chaos Skull",
 			"description": "Um crânio flutuante humanoide, animado por magia cintilante.",
-			"motivesAndTactics": "gargalhar, consumir magia, servir seu criador"
+			"motivesAndTactics": "gargalhar, consumir magia, servir seu criador",
+			"items": {
+				"Leviation": {
+					"name": "부유",
+					"system": {
+						"description": "지면 위로 몇 피트 떠 있으며, 포박될 수 없습니다."
+					}
+				}
+			}.
+			"system": {
+				"Energy Blast": "에너지 폭발"
+			}
 		},
 		"Demon of Despair": {
 			"name": "Demônio do Desespero",
