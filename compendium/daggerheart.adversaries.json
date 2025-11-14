@@ -18,6 +18,11 @@
 			"id": "Cult Adept",
 			"description": "Um mago experiente que lida com sombras e medo.",
 			"motivesAndTactics": "bajular, atrapalhar inimigos, fazer descobertas"
+			"system": {
+				"attack": {
+					"name": "테스트"
+				}
+			}
 		},
 		"Archer Squadron": {
 			"name": "Esquadrão de Arqueiros",
